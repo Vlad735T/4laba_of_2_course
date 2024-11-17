@@ -69,6 +69,11 @@
     "initializer_list": "cpp",
     "span": "cpp",
     "text_encoding": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "barrier": "cpp",
+    "condition_variable": "cpp",
+    "atomic": "cpp"
   }
 }
